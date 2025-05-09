@@ -4,7 +4,7 @@ meta:
 
 basic:
   name: Анна Махова                      # name
-  title: Инженер тестирования           # job title 
+  title: Инженер тестирования ПО           # job title 
   avatar:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
@@ -60,17 +60,18 @@ experience:
       role: Инженер
       location: Москва
       description: |
-        Работа преимущественно связана с разработкой и тестированием сетевых решений с использованием VPN. с написанием клиентской документации для настройки определенной конфигурации 
-          VPN соединения. Для этого я предварительно строю описываемую конфигурацию. 
-          Мой опыт включает в себя построение стендов разной топологии
-          (site-to-site, client-server) и с использованием различных протоколов (IPsec, TLS).
-          В ходе построения стенда могут обнаруживаться баги/особенности реализации, которые 
-          я обсуждаю с разработчиками и затем либо выношу на исправление, либо описываю данную особенность в документе. 
-          За время работы проводила ревью более 10 сценариев, сама написала около 3 
-          сценариев и еще во многих принимала участие
+        + Тестирование и поддержка VPN-решений (IPsec, TLS), ревью конфигураций, баг-репортов
+
+        + Оформление клиентской  документации
+
+        + Построение стендов (site-to-site, client-server), выявление и документирование особенностей реализации
+
+        + Взаимодействие с разработкой, работа с багами и улучшениями
+
+        + Используемые технологии: Linux (Debian/Red OS), bash, TLS, IPsec
 
 project:
-  show: true
+  show: false
   order: 3
   title: Проекты
   description: |
@@ -85,53 +86,27 @@ skill:
   order: 4
   title: Skills
   description: |
-    
-  items:
-    - name: Стандарты VPN (IPsec/TLS)
-      level: 5
-    - name: Сетевое администрирование (Cisco/Huawei)
-      level: 4
-    - name: Excel/PowerPoint/Word
-      level: 3
-    - name: Linux (Debian, Red OS)
-      level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
 
   groups:
-    - name: Group A Skills
+    - name: Сетевые технологии
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - IPsec 
+        - TLS 
+        - Proxy
+        - VPN
+    - name: Тестирование
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - ручное тестирование
+        - построение стендов
+    - name: Языки программирования
       item:
-        - Skill H
-        - Skill I
+        - Python (базово)
+        - Bash 
 
 education:
   show: true
   order: 5
   title: Образование
-  description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
-
   items:
     - institution: Московский Институт Электронной Техники (МИЭТ)
       link: '#'
@@ -143,10 +118,7 @@ education:
           построение инфокоммуникационных систем и сетей, Вычислительная
            техника и информационные технологии, Основы системного и сетевого
            администрирования, Технологии и методы программирования.
-           Объектно-ориентированное программирование
-
-        + First
-        + Second
+           Объектно-ориентированное программирование 
 
     - institution: Московский Институт Электронной Техники (МИЭТ)
       link:
@@ -158,9 +130,6 @@ education:
           интересными для меня являются Администрирование инфокоммуникационных систем и Теория построения 
           инфокоммуникационных сетей и систем. Из стека гуманитарных - Проектный менеджмент, Корпоративная 
           культура и Английсткий язык
-
-        + First
-        + Second
 
 language:
   show: true
@@ -176,7 +145,7 @@ language:
       level: 2급
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
