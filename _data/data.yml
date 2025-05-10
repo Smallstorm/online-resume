@@ -25,7 +25,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/<username>
+  # github:                   # https://github.com/<username>
 
   # research
 
@@ -36,12 +36,12 @@ contact:
   # cv
 
   # chat
-  telegram:                 # https://t.me/<username>
+  # telegram:                 # https://t.me/<username>
 
 profile:
   show: true
   order: 1
-  title: Profile
+  title: Профиль
   description: |
     Инженер по тестированию с более чем 2-летним опытом работы с системным, сервисным и web-ПО. 
     Специализируюсь на тестировании сетевых решений, построении тестовых стендов, тест-дизайне 
@@ -56,7 +56,7 @@ experience:
     - company: С-Терра СиЭсПи
       link:
       tags: full-time
-      date: 2023.06 - настоящее время
+      date: 2023 - настоящее время
       role: Инженер
       location: Москва
       description: |
@@ -84,7 +84,7 @@ project:
 skill:
   show: true
   order: 4
-  title: Skills
+  title: Навыки
   description: |
 
   groups:
