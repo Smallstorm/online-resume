@@ -81,13 +81,65 @@ project:
 
     The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
-skill:
+experience:
   show: true
   order: 4
+  title: Навыки 
+  items:
+
+    - company: Тестирование
+      link:
+      # tags: full-time
+      # date: 2023 - настоящее время
+      # role: Инженер
+      # location: Москва
+      description: |
+        + ручное тестирование
+        
+        + построение среды для тестирования
+        
+        + написание отчетов по проведенным тестам  
+        
+        + Ручное тестирование (Mobile/Web)
+        
+        + Тест-анализ, проектирование тестов
+        
+        + Баг-трекинг, аналитика инцидентов
+
+        + Чёткая коммуникация и работа в команде
+    - company: Технологии и протоколы
+      link:
+      # tags: full-time
+      # date: 2023 - настоящее время
+      # role: Инженер
+      # location: Москва
+      description: |
+        + Клиент-серверная архитектура (HTTP, REST) 
+        
+        + TLS  
+        
+        + Proxy
+
+        + VPN
+    - company: Языки программирования
+      link:
+      # tags: full-time
+      # date: 2023 - настоящее время
+      # role: Инженер
+      # location: Москва
+      description: |
+        + Python
+        
+        + Bash
+
+        + HTML 
+skill:
+  show: false
+  order: 5
   title: Навыки
   description: |
-  groups:
-    - name: Тестирование
+    Тестирование
+
         + ручное тестирование
         + построение среды для тестирования
         + написание отчетов по проведенным тестам  
@@ -96,11 +148,13 @@ skill:
         + Баг-трекинг, аналитика инцидентов
         + Чёткая коммуникация и работа в команде
     - name: Технологии
+
         + Клиент-серверная архитектура (HTTP, REST) 
         + TLS  
         + Proxy
         + VPN   
     - name: Языки программирования
+
         + Python
         + Bash 
         + HTML 
