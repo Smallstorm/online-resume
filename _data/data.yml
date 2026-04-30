@@ -90,25 +90,12 @@ skill:
   description: |
 
   groups:
-    - name: Тестирование API 
-      item:
-        - Postman 
-        - Fiddler    
+    - name: Тестирование API (Postman, Fiddler)
     - name: DevTools (базово)
-    - name: Системы bug-трекинга
-      item:
-        - Bugzilla
-        - Redmine
-    - name: Тестирование
-      item:
-        - Функциональное 
-        - Регрессионное
-        - Smoke-тестирование    
+    - name: Системы bug-трекинга (Bugzilla, Redmine)  
+    - name: Тестирование (Функциональное, Регрессионноеб Smoke-тестирование)
     - name: SQL (простые запросы)
-    - name: Языки программирования
-      item:
-        - Python (базово)
-        - Bash 
+    - name: Языки программирования (Python (базово), Bash)
 
 education:
   show: true
