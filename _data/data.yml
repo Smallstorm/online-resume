@@ -90,6 +90,7 @@ skill:
 
     + Сетевые протоколы: BGP, OSPF, VLAN, IPsec, GRE, DHCP, TLS
     + Linux, маршрутизация
+    + Git
     + Python (pexpect, pytest) и Bash для автоматизации
     + Системы bug-трекинга (Jira, Bugzilla, Redmine)  
     + Тестирование (Функциональное, Регрессионное, Smoke-тестирование)
