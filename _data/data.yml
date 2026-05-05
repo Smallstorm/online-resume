@@ -59,7 +59,7 @@ experience:
       role: Инженер
       location: Москва
       description: |
-        + Тестировала сетевые протоколы BGP, OSPF, VLAN, IPsec, GRE, DHCP на Linux-стеке
+        + Тестировала сетевые протоколы BGP, OSPF, VLAN, IPsec, GRE, VRRP, DHCP на Linux-стеке
 
         + Выявила 2 критических и множество менее значимых дефектов в сетевых продуктах (FRR, keepalived)
 
