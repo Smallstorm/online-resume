@@ -4,7 +4,7 @@ meta:
 
 basic:
   name: Анна Махова                      # name
-  title: Инженер тестирования           # job title 
+  title: Сетевой инженер           # job title 
   avatar:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
@@ -43,10 +43,10 @@ profile:
   order: 1
   title: Профиль
   description: |
-    Тестировщик с опытом ручного тестирования веб-приложений и API. Веду тестовую 
-    документацию, работаю с баг-трекинговыми системами. Тестирую API через 
-    Postman, пишу автотесты на Python (pytest). Знаю основы SQL и клиент-серверной архитектуры. 
-    Готова обучаться мобильному тестированию и работать с Android Studio / Xcode.
+    Сетевой инженер с опытом работы с сетевыми протоколами и Linux-инфраструктурой. Настраиваю и диагностирую маршрутизацию 
+    на базе BGP, OSPF, VLAN, IPsec, GRE, DHCP. Работаю с FRR, keepalived, multiwan. Пишу скрипты на Python/Bash для автоматизации 
+    сетевых задач. Веду техническую документацию. Есть опыт работы с оборудованием Cisco/Huawei, 
+    Готов развиваться в направлении работы с системами мониторинга Zabbix/Grafana.
 experience:
   show: true
   order: 2
