@@ -43,8 +43,8 @@ profile:
   order: 1
   title: Профиль
   description: |
-    Сетевой инженер с опытом настройки протоколов BGP, OSPF, VLAN, IPsec, а также с опытом администрирования Linux-инфраструктуры. Настраиваю и диагностирую маршрутизацию 
-    на базе BGP, OSPF, VLAN, IPsec, GRE, DHCP. Работаю с FRR, keepalived. Пишу скрипты на Python/Bash для автоматизации 
+    Сетевой инженер с опытом настройки протоколов GRE, DHCP, VLAN, IPsec, а также с опытом администрирования Linux-инфраструктуры. 
+    Настраиваю и диагностирую маршрутизацию на базе BGP, OSPF. Работаю с FRR, keepalived. Пишу скрипты на Python/Bash для автоматизации 
     сетевых задач. Веду техническую документацию. Есть опыт работы с оборудованием Cisco/Huawei, работала с системами мониторинга Zabbix/Grafana.
 experience:
   show: true
@@ -59,7 +59,7 @@ experience:
       role: Инженер
       location: Москва
       description: |
-        + Тестировала сетевые протоколы BGP, OSPF, VLAN, IPsec, GRE, VRRP, DHCP на Linux-стеке
+        + Тестировала сетевые протоколы BGP, OSPF, VLAN, IPsec, GRE, VRRP, DHCP
 
         + Выявила 2 критических и множество менее значимых дефектов в сетевых продуктах (FRR, keepalived)
 
