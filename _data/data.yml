@@ -10,7 +10,7 @@ basic:
     path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
-  location: Москва, Росиия  # location, text or markdown link syntax
+  location: Москва, Россия  # location, text or markdown link syntax
   email: anna_makhova@inbox.ru     # email address
   phone: +7 (916) 847 35 45  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 #  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
@@ -44,9 +44,8 @@ profile:
   title: Профиль
   description: |
     Сетевой инженер с опытом работы с сетевыми протоколами и Linux-инфраструктурой. Настраиваю и диагностирую маршрутизацию 
-    на базе BGP, OSPF, VLAN, IPsec, GRE, DHCP. Работаю с FRR, keepalived, multiwan. Пишу скрипты на Python/Bash для автоматизации 
-    сетевых задач. Веду техническую документацию. Есть опыт работы с оборудованием Cisco/Huawei, 
-    Готов развиваться в направлении работы с системами мониторинга Zabbix/Grafana.
+    на базе BGP, OSPF, VLAN, IPsec, GRE, DHCP. Работаю с FRR, keepalived. Пишу скрипты на Python/Bash для автоматизации 
+    сетевых задач. Веду техническую документацию. Есть опыт работы с оборудованием Cisco/Huawei, работала с системами мониторинга Zabbix/Grafana.
 experience:
   show: true
   order: 2
@@ -62,7 +61,7 @@ experience:
       description: |
         + Тестировала сетевые протоколы BGP, OSPF, VLAN, IPsec, GRE, DHCP на Linux-стеке
 
-        + Нашла 2 критических и множество менее критических дефектов в сетевых продуктах (FRR, keepalived)
+        + Выявила 2 критических и множество менее значимых дефектов в сетевых продуктах (FRR, keepalived)
 
         + Разработала 12+ интеграционных сценариев и тестовую документацию (тест-кейсы, матрицы, баг-репорты)
 
@@ -92,9 +91,9 @@ skill:
     + Сетевые протоколы: BGP, OSPF, VLAN, IPsec, GRE, DHCP, TLS
     + Linux, маршрутизация
     + Python (pexpect, pytest) и Bash для автоматизации
-    + Системы bug-трекинга (Jira ,Bugzilla, Redmine)  
+    + Системы bug-трекинга (Jira, Bugzilla, Redmine)  
     + Тестирование (Функциональное, Регрессионное, Smoke-тестирование)
-    + Языки программирования (Python (базово), Bash)
+    + Языки программирования (Python, Bash)
 
 education:
   show: true
