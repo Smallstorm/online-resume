@@ -92,7 +92,7 @@ skill:
   groups:
     - name: Тестирование desktop-приложений (приемущественно Linux, меньше Windows)
     - name: Linux, работа с логами (dmesg, journalctl) и захватом трафика (tcpdump) 
-    - name: Составление тестовой документации - тест-кейсы, чек-листы, тест-план
+    - name: Составление тестовой документации
     - name: Виртуализация (VMware Workstation, VMware ESXI) 
     - name: Системы bug-трекинга (Jira ,Bugzilla, Redmine)  
     - name: SQL 
